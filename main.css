@@ -1,0 +1,12 @@
+.top-div {
+    margin: 40px 10px;
+    background-color: yellow;
+}
+
+.bottom-div {
+    margin: 40px 20px;
+    background-color: purple;
+}
+
+/* The margin between them will be 40px and not 80px */
+
